@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand"/>. I’m **Pranav Kokati**, a high‑school researcher and AI/ML enthusiast with a passion for solving complex problems at the intersection of machine learning, bioinformatics, and materials science. I love designing and implementing data‑driven models, exploring cool algorithms, and sharing my findings with the community. When I’m not coding, you can catch me skiing on the mountain, reading, or playing chess.
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand"/>. I’m **Pranav Kokati**, a high‑school researcher and AI/ML enthusiast with a passion for solving complex problems at the intersection of machine learning, chemistry, and materials science. I love designing and implementing data‑driven models, exploring cool algorithms, and sharing my findings with the community. When I’m not coding, you can catch me skiing on the mountain, reading, or playing chess.
 
 ---
 
