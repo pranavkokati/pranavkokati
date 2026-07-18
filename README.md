@@ -6,9 +6,6 @@
 
 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand"/>. I’m **Pranav Kokati**, a high‑school researcher and AI/ML enthusiast with a passion for solving complex problems at the intersection of machine learning, chemistry, and materials science. I love designing and implementing data‑driven models, exploring cool algorithms, and sharing my findings with the community. When I’m not coding, you can catch me skiing on the mountain, reading, or playing chess.
 
----
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-2f363d?style=flat&logo=python&logoColor=white" alt="Python" height="30"/>
   <img src="https://img.shields.io/badge/-PyTorch-2f363d?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" height="30"/>
@@ -22,5 +19,4 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
   <img src="https://img.shields.io/badge/-Node.js-2f363d?style=flat&logo=node.js&logoColor=white" alt="Node.js" height="30"/>
 </p>
 
----
 
